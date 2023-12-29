@@ -22,11 +22,6 @@ Create a HTML file to implement form based input and output.
 
 Step 6:
 Publish the website in the given URL.
-
-
-
-Publish the website in the given URL.
-
 ## PROGRAM :
 ```
 math.html
